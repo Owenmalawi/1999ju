@@ -36,7 +36,7 @@ global.APIs = { // API Prefix
   bg: 'http://bochil.ddns.net',
   fgmods: 'https://api-fgmods.ddns.net'
 }
-global.APIKeys = { // APIKey Here
+global.APIKeys = { // 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
   // 'https://website': 'apikey'
   'https://api.xteam.xyz': 'd90a9e986e18778b',
   'https://api.lolhuman.xyz': '85faf717d0545d14074659ad',
@@ -47,15 +47,15 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = '💝 Queen Hentai 💝'
+global.botname = '💝 TROYMEX OWEN 💝'
 global.premium = 'true'
-global.packname = '💝 Queen Hentai 💝 Created By 💝 Dinuwa Official²⁰²³ 💝' 
+global.packname = '💝 TROYMEX OWEN 💝 Created By 💝 OWEN TEMBO 💝' 
 global.author = '💝 Dinuwa Official²⁰²³ 💝' 
 global.igfg = '▢ Follow on Facebook\https://www.facebook.com/profile.php?id=61551915615888\n' 
-global.dygp = 'https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S'
+global.dygp = 'https://chat.whatsapp.com/EP0wRAM6xxSEqYfiAiBGw2'
 global.fgsc = 'https://github.com/dinuwah/QUEEN-HENTAI' 
-global.fgyt = 'https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S'
-global.fgpyp = 'https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S'
+global.fgyt = 'https://chat.whatsapp.com/EP0wRAM6xxSEqYfiAiBGw2'
+global.fgpyp = 'https://chat.whatsapp.com/EP0wRAM6xxSEqYfiAiBGw2'
 global.fglog = 'https://i.ibb.co/T1DqdYz/thumbnail.jpg' 
 
 
